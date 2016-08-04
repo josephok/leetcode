@@ -1,2 +1,2 @@
 # leetcode
-solve for https://leetcode.com
+solution for https://leetcode.com
